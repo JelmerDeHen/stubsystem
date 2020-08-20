@@ -1,0 +1,158 @@
+c[?7l[2J[0mSeaBIOS (version 1.12.0-20181126_142135-anatol)
+
+
+iPXE (http://ipxe.org) 00:03.0 C980 PCI2.10 PnP PMM+07F92120+07EF2120 C980
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM...
+Probing EDD (edd=off to disable)... oc[?7l[2J[    0.872105] Spectre V2 : Spectre mitigation: LFENCE not serializing, switching to generic retpoline
+Hello world
+/ 160
+/dev 1960
+/dev/autofs 0
+/dev/console 0
+/dev/cpu_dma_latency 0
+/dev/full 0
+/dev/hpet 0
+/dev/kmsg 0
+/dev/lightnvm 60
+/dev/lightnvm/control 0
+/dev/mem 0
+/dev/memory_bandwidth 0
+/dev/network_latency 0
+/dev/network_throughput 0
+/dev/null 0
+/dev/port 0
+/dev/ptmx 0
+/dev/random 0
+/dev/rtc0 0
+/dev/snapshot 0
+/dev/tty 0
+/dev/tty0 0
+/dev/tty1 0
+/dev/tty10 0
+/dev/tty11 0
+/dev/tty12 0
+/dev/tty13 0
+/dev/tty14 0
+/dev/tty15 0
+/dev/tty16 0
+/dev/tty17 0
+/dev/tty18 0
+/dev/tty19 0
+/dev/tty2 0
+/dev/tty20 0
+/dev/tty21 0
+/dev/tty22 0
+/dev/tty23 0
+/dev/tty24 0
+/dev/tty25 0
+/dev/tty26 0
+/dev/tty27 0
+/dev/tty28 0
+/dev/tty29 0
+/dev/tty3 0
+/dev/tty30 0
+/dev/tty31 0
+/dev/tty32 0
+/dev/tty33 0
+/dev/tty34 0
+/dev/tty35 0
+/dev/tty36 0
+/dev/tty37 0
+/dev/tty38 0
+/dev/tty39 0
+/dev/tty4 0
+/dev/tty40 0
+/dev/tty41 0
+/dev/tty42 0
+/dev/tty43 0
+/dev/tty44 0
+/dev/tty45 0
+/dev/tty46 0
+/dev/tty47 0
+/dev/tty48 0
+/dev/tty49 0
+/dev/tty5 0
+/dev/tty50 0
+/dev/tty51 0
+/dev/tty52 0
+/dev/tty53 0
+/dev/tty54 0
+/dev/tty55 0
+/dev/tty56 0
+/dev/tty57 0
+/dev/tty58 0
+/dev/tty59 0
+/dev/tty6 0
+/dev/tty60 0
+/dev/tty61 0
+/dev/tty62 0
+/dev/tty63 0
+/dev/tty7 0
+/dev/tty8 0
+/dev/tty9 0
+/dev/ttyS0 0
+/dev/ttyS1 0
+/dev/ttyS2 0
+/dev/ttyS3 0
+/dev/udmabuf 0
+/dev/urandom 0
+/dev/vcs 0
+/dev/vcs1 0
+/dev/vcsa 0
+/dev/vcsa1 0
+/dev/vcsu 0
+/dev/vcsu1 0
+/dev/vga_arbiter 0
+/dev/zero 0
+/init 2210992
+/proc 0
+/proc/1 0
+/proc/1/arch_status 0
+/proc/1/attr 0
+/proc/1/attr/current 0
+/proc/1/attr/exec 0
+/proc/1/attr/fscreate 0
+/proc/1/attr/keycreate 0
+/proc/1/attr/prev 0
+/proc/1/attr/smack 0
+/proc/1/attr/smack/current 0
+/proc/1/attr/sockcreate 0
+/proc/1/autogroup 0
+/proc/1/auxv 0
+/proc/1/cgroup 0
+/proc/1/clear_refs 0
+/proc/1/cmdline 0
+/proc/1/comm 0
+/proc/1/coredump_filter 0
+/proc/1/cpuset 0
+/proc/1/cwd 0
+/proc/1/environ 0
+/proc/1/exe 0
+/proc/1/fd 0
+/proc/1/fd/0 64
+/proc/1/fd/1 64
+/proc/1/fd/2 64
+lstat /proc/1/fd/3: no such file or directory
+0 &{lo 0 134218239 {773333326 63708620049 0x580d80} {21 3966 1 41471 0 0 0 0 0 4096 0 {1573023249 773333326} {1573023249 773333326} {1573023249 773333326} [0 0 0]}}
+3
+2
+1
+[    5.220847] reboot: Power down
+c[?7l[2J[0mSeaBIOS (version 1.12.0-20181126_142135-anatol)
+
+
+iPXE (http://ipxe.org) 00:03.0 C980 PCI2.10 PnP PMM+07F92110+07EF2110 C980
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM...
+Probing EDD (edd=off to disable)... ok
+c[?7l[2JHello world
+0 &{lo 0 134218239 {559999999 63708620186 0x57bd60} {21 3966 1 41471 0 0 0 0 0 4096 0 {1573023386 559999999} {1573023386 559999999} {1573023386 559999999} [0 0 0]}}
+3
+2
+1
+PS[    3.610275] reboot: Power down
