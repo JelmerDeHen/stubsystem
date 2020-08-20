@@ -13,7 +13,7 @@ import (
 	//"path/filepath"
 	"strconv"
 	//"unsafe"
-	"github.com/JelmerDeHen/dev2/stubsystem/idlebox/cmds"
+	"github.com/JelmerDeHen/stubsystem/idlebox/cmds"
 )
 const (
 	LINUX_REBOOT_MAGIC1         uintptr = 0xfee1dead

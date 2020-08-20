@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"os"
-	"github.com/JelmerDeHen/dev2/stubsystem/idlebox/cmds"
+	"github.com/JelmerDeHen/stubsystem/idlebox/cmds"
 	"strings"
 )
 /*
